@@ -1,0 +1,6 @@
+[submodule "add-astronaut"]
+	path = add-astronaut
+	url = git@github.com:shiftyp/add-astronaut.git
+[submodule "rkahn.dev"]
+	path = rkahn.dev
+	url = git@github.com:shiftyp/rkahn.dev.git
