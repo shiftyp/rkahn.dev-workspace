@@ -1,0 +1,7 @@
+services:
+  add-astronaut:
+    build: './add-astronaut'
+  rkahn-dev:
+    build: './rkahn.dev'
+    ports: 
+      - 8080:8080
